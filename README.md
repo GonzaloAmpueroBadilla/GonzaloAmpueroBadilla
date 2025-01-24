@@ -1,7 +1,8 @@
 ## Hi there 👋
-<img src="https://i.imgur.com/weNbhGZ.png">
-<!--
-**GonzaloAmpueroBadilla/GonzaloAmpueroBadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1 align="center">Hi, I'm gonzalo👋</h1>
+</div>
+<img src="banner.gif">
 
 Here are some ideas to get you started:
 
