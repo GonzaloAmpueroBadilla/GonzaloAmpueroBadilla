@@ -24,8 +24,6 @@ I’m a programming student passionate about learning and creating innovative so
 
 
 
-Projects:
-...
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
