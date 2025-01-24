@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-<h1 align="center">Hi, I'm gonzalo👋</h1>
+<h1 align="center">I'm gonzalo👋</h1>
 </div>
 <img src="banner.png">
 
