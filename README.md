@@ -28,7 +28,8 @@ I’m a programming student passionate about learning and creating innovative so
 <p align="center">
 <a href="https://github.com/GonzaloAmpueroBadilla">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GonzaloAmpueroBadilla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GonzaloAmpueroBadilla&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloAmpueroBadilla&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400&unique=1"/>
+
 </a>
 </p>
 
